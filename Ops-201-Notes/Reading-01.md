@@ -1,0 +1,6 @@
+# Reading 01
+---
+## statement addressing why this topic matters as it relates to what you are studying in this module.
+- In this module, we were primarily learning the different ways to back up an OS so it can be restored to a functional point should an error occur. In this article, we study how the windows system restore feature works. This can be used in our experimentation with virtual machines as one means of backing up our data without creating a copy of the ova file. It could be useful to do a system restore rather than load a snapshot if we have created files that we intend to keep on the virtual machine, as the system restore function does not affect personal files. 
+## summarize and explain this topic via an analogy from your previous work or home experience.
+- Creating a system restore point and performing a system restore would be akin to cleaning up after a sewage leak vs cleaning up after a power outage in a kitchen. In either case you will have to close down the store completely for the day, but in the case of the former, most of the product (personal files) in the freezer (hard drive) would not be affected, while in the latter, the product would likely need to be tossed due to the freezer shutting down.
