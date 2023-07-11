@@ -1,4 +1,5 @@
 - [PDF Version](https://github.com/theSam1998/Ops-Reading-Notes/files/12022273/bias-assessment.pdf)
+---
 ![bias-assessment1024_1](https://github.com/theSam1998/Ops-Reading-Notes/assets/123232378/7aa89e0f-96b9-4cd4-9fee-4b85cc57582a)
 ![bias-assessment1024_2](https://github.com/theSam1998/Ops-Reading-Notes/assets/123232378/dcdb2274-c6ec-485d-9083-c5d58a40221a)
 ![bias-assessment1024_3](https://github.com/theSam1998/Ops-Reading-Notes/assets/123232378/3148a140-925a-46b2-a313-c202f890f794)
