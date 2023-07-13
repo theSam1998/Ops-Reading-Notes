@@ -1,4 +1,4 @@
-# Reading 06
+# Network Devices and Technologies
 ---
 ## Statement of relevance:
 - These materials are meant to familiarize us with NAT (Network Address Translation) and how it works. NAT is a vital part of establishing a proper, complete network with fully functional internet access, as this is the process by which the urls we are familiar with (i.e. https://www.google.com) are translated into their respective IP addresses, and vice versa. NAT also serves to translate and mask ports, serving in two ways to help direct traffic to its intended destination. Therefore, understanding how it works and how to use it properly to a T is vital to our future as cybersecurity professionals.
