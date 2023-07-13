@@ -1,4 +1,4 @@
-# Reading 08
+# Cloud Services and Virtualization
 ---
 ## Statement addressing why this topic matters as it relates to what you are studying in this module
 - Some things can only be accomplished by modifying the registry, which will allow a greater degree of customizability. It is best to only modify when necessary, as sensitive system files are stored in the windows registry, and deleting or modifying them could cause problems. It is always best to backup your system before editing the registry. Windows registry is an extremely large database of sensitive system files that store configurations used by other programs and parts of the OS. Windows registry can be useful for automation, as settings can be saved in batches as .reg files and transferred to other devices/an entire network to automatically push out necessary changes. 
