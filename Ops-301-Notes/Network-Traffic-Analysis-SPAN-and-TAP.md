@@ -1,4 +1,4 @@
-# Reading 07
+# Network Traffic Analysis: SPAN and TAP
 ---
 ## Relevance statement:
 - NGINX is a highly powerful and versatile software that, while built initially to be the fastest webserver possible, can be used for a great number of other purposes that will improve the performance of a website or application. It is a crucial component of the infrastructure of some of the most famous apps and websites, and some of the biggest tech companies worldwide use it extensively. As a result, it is vital for us to learn to work with it and learn how it works as cybersecurity professionals.
