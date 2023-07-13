@@ -1,6 +1,6 @@
 Welcome to the ops102-Reading_notes wiki!
 this where i'm gonna put my reading notes for the day.</br>
-# Reading01</br>
+# Hardware Hacks and Security Vulnerabilities</br>
 This case is important to what we're doing in class today because it is a massive example of how software is not the only vulnerability in secure networks. It shows that hardware can be compromised at the manufacturing level, and that when it comes to security due dillegence needs to be done on all fronts.
 
 ### how is a hardware hack different from a software hack?
