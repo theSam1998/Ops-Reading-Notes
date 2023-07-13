@@ -1,4 +1,4 @@
-# Reading 13
+# Active Directory and Its Key Services
 ---
 ## Statement of relevance:
 - Microsoft Active Directory service is a commonly used tool in the industry for managing large groups of users, such as in a corpoprate network. It is made up of several directory services, which are a type of database used for storing information about users and resources. Being commonly used in the field for a variety of purposes surrounding AAA and management of groups, it is vital for us to familiarize ourselves with how it works and not only how it can be used, but what its vulnerabilities are and how they can be exploited so we can better understand how to keep our systems secure. 
