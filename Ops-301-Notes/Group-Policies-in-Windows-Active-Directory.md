@@ -1,4 +1,4 @@
-# Reading 14 - Part II
+# Group Policies in Windows Active Directory
 ### chatgpt insertions indicated by: 🤖
 ---
 ## Statement Of Relevance:
