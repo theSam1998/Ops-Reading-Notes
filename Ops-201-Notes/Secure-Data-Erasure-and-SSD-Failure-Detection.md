@@ -1,4 +1,4 @@
-# Reading 11
+# Secure Data Erasure and SSD Failure Detection
 ---
 ## Statement addressing why this topic matters as it relates to what you are studying in this module:
 - DBAN is a tool for securely erasing data from a hard drive. It is preferred in the industry over alternatives such as custom scripts or commands, as it is proven to work and most cybersecurity auditors already understand how well it works and why. You may want to securely delete the contents of a hard drive for several reasons, such as preventing identity theft, data theft, or to remove viruses or malware from the hard drive in question. DBAN must be booted directly into in order to be used, and provides a convenient GUI for removing data from your hard drive. However, while DBAN is useful for secure data removal to some extents, it has its limitations. For example, DBAN can neither detect nor erase SSDs, and also does not provide a certificate of erasure, which may render it invalid for some cybersecurity auditing purposes. 
