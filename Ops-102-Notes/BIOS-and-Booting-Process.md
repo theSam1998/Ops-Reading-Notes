@@ -1,4 +1,4 @@
-# Reading03
+# BIOS and Booting Process
 ---
 ## What is the BIOS?</br>
 - The BIOS (Basic Input Output System) is responsible for ensuring power is being sent in the correct amounts to the correct places (running POST diagnostics), and locating/booting the operating system onto your PC. The OS is loaded into the RAM, and can then be used as an interface between the user and the hardware in the PC, translating visible actions in the GUI into data that can be understood by the CPU.
