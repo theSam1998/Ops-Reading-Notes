@@ -1,4 +1,4 @@
-# Reading 03
+# TCP/IP Model and Data Encapsulation
 ---
 # Why is this relevant?
 - The first article these notes refer to teaches us to understand the nature of and effectively read CIDR Notation, while the second regards the importance of subnetting/network segmentation and breaks down the practice into greater detail. These are both vital pieces of information, and go hand in hand with one another, as it is vital to understand how CIDR blocks and notation works to understand what you are doing when segmenting a network. Network segmentation is extremely important as it is one of the most scalable and easily customized means of securing a network in both corporate and home environments.
