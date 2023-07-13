@@ -1,4 +1,4 @@
-# Reading 13
+# Amazon EC2 and Cloud Security
 ---
 ## Statement addressing why this topic matters as it relates to what you are studying in this module:
 - 1st article: clarifies the usefulness of virtualization, allowing otherwise resource intensive services to run off existing hardware through the virtualization layer. clarifies the relationship between ec2 and virtualization, and how ec2 is made possible by virtualization.
