@@ -1,4 +1,4 @@
-# Reading 01
+# Introduction to Linux
 ---
 ## statement addressing why this topic matters as it relates to what you are studying in this module.
 - In this module, we were primarily learning the different ways to back up an OS so it can be restored to a functional point should an error occur. In this article, we study how the windows system restore feature works. This can be used in our experimentation with virtual machines as one means of backing up our data without creating a copy of the ova file. It could be useful to do a system restore rather than load a snapshot if we have created files that we intend to keep on the virtual machine, as the system restore function does not affect personal files. 
