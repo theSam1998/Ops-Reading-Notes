@@ -1,4 +1,4 @@
-# Reading 05
+# Network Topologies and Ethernet Standards
 ---
 ## Relevance statement:
 - VPNs are a critical security tool and a vital piece of infrastructure in the cybersecurity field, so it is important to learn their ins and outs. These notes reflect knowledge gained from an article discussing the different types of VPNs, their uses, their advantages and disadvantages. Nearly every company/organization of every size uses a VPN, and it is becoming increasingly popular with individuals for personal use as well. VPNs provide a secure way to connect across multiple locations without putting your data at risk, and it will be crucial to understand how they work and how to use them in our future cybersecurity careers.
