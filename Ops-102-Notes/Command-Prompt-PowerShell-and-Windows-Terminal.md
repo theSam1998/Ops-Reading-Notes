@@ -1,4 +1,4 @@
-# Reading 09
+# Command Prompt, PowerShell, and Windows Terminal
 --- 
 ## What is the Command Prompt?
 - The command prompt is a command line interpreter native to most windows distributions. This means it can be used to interpret text commands to directly interact with the file system of the PC. It operates by running the appropriate batch file or executable for the command given. This makes it extremely useful for performing actions within the filesystem quickly, or solving issues that cannot be accessed through the normal GUI.
