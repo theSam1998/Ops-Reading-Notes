@@ -1,4 +1,4 @@
-# Reading 05
+# Understanding Shell, Terminal, and CLI
 --- 
 ## Explain the terms “shell”, “terminal”, “cli”, and “command prompt”. Why are these still used today, when we have graphical interfaces?</br>
 - <b> these terms all refer to the text UI used to designate actions within the PC. Just like in the early days of computing, it is more efficient and less costly on hardware to perform these actions through the terminal as opposed to through the GUI, as actions that would take multiple steps within the GUI can be shortened to a command the length of a sentence (eg. creating a folder, placing a file within that folder, naming that file and placing text within it could all be done from a single line within the terminal).
