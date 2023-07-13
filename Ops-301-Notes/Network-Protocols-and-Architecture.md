@@ -1,5 +1,5 @@
 
-# Reading 02
+# Network Protocols and Architecture
 ---
 ## Statement addressing relevance to unit:
 - the reading we have been asked to do today familiarizes us with both a vital tool for port analysis and a deeper breakdown of what ports are and their functions.
