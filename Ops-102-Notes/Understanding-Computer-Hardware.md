@@ -1,4 +1,4 @@
-# Reading 2
+# Understanding Computer Hardware
 ---
 It is of the utmost importance to have an understanding of how the tools you're working with function, down to their core. This module is helping to familiarize us with our machines and their parts, so that the inner workings of computers are no longer alien to us.</br>
 ## Which is better in a CPU, more cores or higher speed? Under which circumstances is that true? How many CPU cores does a computer need?</br>
