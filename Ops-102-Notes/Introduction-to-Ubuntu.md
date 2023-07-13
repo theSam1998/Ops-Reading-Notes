@@ -1,4 +1,4 @@
-# Reading 04
+# Introduction to Ubuntu
 ---
 ## <b> What is Ubuntu? <b>
 - Ubuntu is a free to use, open source Operating system developed in 2004 by Mark Shuttleworth. He wanted to make Debian (another existing linux distribution at the time) more user friendly, so he put together a team known today as Canonical Ltd to develop Ubuntu. The OS is designed to be extremely versatile and customizable by the user, making it ideal for a wide variety of purposes, and a top choice of industry professionals.
