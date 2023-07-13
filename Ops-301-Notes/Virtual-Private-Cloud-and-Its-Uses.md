@@ -1,4 +1,4 @@
-# Reading 08
+# Virtual Private Cloud (VPC) and Its Uses
 ### GPT4 insertions indicated by: 🤖
 ---
 ## Relevance Statement:
