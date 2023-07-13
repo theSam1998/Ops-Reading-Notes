@@ -1,4 +1,4 @@
-# Reading 12
+# Understanding Active Directory
 ### chatGPT insertions indicated by:🤖
 ---
 ## Statement of relevance:
