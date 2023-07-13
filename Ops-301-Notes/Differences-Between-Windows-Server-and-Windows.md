@@ -1,4 +1,4 @@
-# Reading 11
+# Differences Between Windows Server and Windows
 ### chatGPT insertions indicated by 🤖
 - model used: gpt4 with plugins, plugins enabled: webpilot
 - prompt used for note enhancement: Take this article: [url goes here] and my notes on it: [url goes here]. Compare the two and make any corrections you'd like to make or insertions of things I missed from the article, or just different facts that I didn't mention that you think would be useful, and insert them using the format specified at the beginning of the notes.
