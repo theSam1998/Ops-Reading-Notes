@@ -1,4 +1,4 @@
-# Reading 07
+# Understanding SSH and RDP
 ---
 ## SSH Protocol
 ### What is the Secure Shell (SSH) Protocol?
