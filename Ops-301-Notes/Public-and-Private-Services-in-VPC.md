@@ -1,4 +1,4 @@
-# Reading 10
+# Public and Private Services in VPC
 ### GPT4 insertions indicated by: 🤖
 ---
 ## Statement of relevance:
