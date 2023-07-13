@@ -1,4 +1,4 @@
-# Reading 08
+# Working with ISO Files
 ---
 ## What is an ISO File?
 - An ISO file is a type of archive file that is treated as though it were a disk by the pc, it typically contains all the parts necessary to install and run a program on your PC. They can be extracted via decompression software like 7 zip. Unlike other archive files, like .zip and .rar, ISO files are typically meant to be used for installing software and are capable of being booted into, making them ideal for quick installation of Operating Systems and other crucial applications.
